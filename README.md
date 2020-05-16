@@ -1,2 +1,2 @@
 # matlab_test
-testing Matlab codes
+this repository is for sole purpose of testing and practicing Matlab codes.
